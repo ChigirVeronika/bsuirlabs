@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.mysql.jdbc_5.1.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/com.mysql.jdbc_5.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/junit-4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jfxmessagebox-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/jfxmessagebox-1.1.0.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
